@@ -1,1 +1,4 @@
-from local t git
+from local to git
+ git add push
+ git commit -m "push command"
+ git push origin main
